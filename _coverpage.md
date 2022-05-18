@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# Docsify个人开源笔记
 
 > 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
 
